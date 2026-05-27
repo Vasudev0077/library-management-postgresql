@@ -142,11 +142,11 @@ Fine Rule:
 
 
 
-\## ER Diagram
+## ER Diagram
 
 
 
-!\[ER Diagram](./ER_Diagram.png)
+![ER Diagram](ER_Diagram.png)
 
 
 
