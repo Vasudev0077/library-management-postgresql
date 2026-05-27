@@ -146,7 +146,7 @@ Fine Rule:
 
 
 
-!\[ER Diagram](ER\_Diagram.png)
+!\[ER Diagram](./ER_Diagram.png)
 
 
 
